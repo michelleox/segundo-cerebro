@@ -1,5 +1,11 @@
 # 🧠 Segundo Cérebro
 
+<p align="center">
+  <a href="https://giphy.com/gifs/GRr1KDXC7XW1O5Q2fh">
+    <img src="https://media.giphy.com/media/GRr1KDXC7XW1O5Q2fh/giphy.gif" alt="Obsidian" width="800">
+  </a>
+</p>
+
 Repositório pessoal de conhecimento e memória em Markdown.
 
 Este espaço funciona como um Obsidian simples baseado em GitHub, armazenando informações importantes sobre projetos, decisões, investigações, configurações, soluções, comandos e aprendizados.
