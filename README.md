@@ -11,7 +11,7 @@ Este espaço funciona como um Obsidian simples baseado em GitHub, armazenando in
 - `decisoes/` — decisões técnicas e motivos
 - `solucoes/` — problemas encontrados e como foram resolvidos
 - `comandos/` — comandos úteis de Linux, Git, Docker, VPS etc.
-- `agentes/` — Clara, Hermes, OpenClaw e outras agentes
+- `agentes/` — Ana Clara, Helena, Íris, Michelle e outras agentes
 - `infraestrutura/` — servidores, VPS, serviços e arquitetura
 - `ideias/` — ideias e projetos futuros
 - `conversas/` — registros relevantes de conversas e desenvolvimentos
